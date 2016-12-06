@@ -4,4 +4,4 @@ const appendList = (container, text) => {
   container.appendChild(li);
 };
 
-export {appendList};
+export {appendList}

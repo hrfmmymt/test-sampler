@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "$(npm bin)/karma start"
+    "test": "$(npm bin)/karma start",
+    "lint": "eslint src"
   },
   "keywords": [],
   "author": "",
